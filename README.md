@@ -1,3 +1,8 @@
+![Alt text](/Images/7.png)
+![Alt text](/Images/8.png)
+
+
+
 # Firebase Auth for Vite
 
 This project was created with [Vite](https://vitejs.dev/).
